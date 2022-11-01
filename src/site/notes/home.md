@@ -22,3 +22,4 @@
 - <a href='subpage'>subpage</a>
 - subpage
 - [[subpage]]
+- [subpage](subpage.md)
