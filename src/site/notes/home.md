@@ -21,4 +21,5 @@
 
 - [subpage](./subpage.md)
 - [[subpage|subpage]]
-
+- [[subpage]]
+- [[[subpage]]](subpage.md)
