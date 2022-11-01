@@ -20,6 +20,6 @@
 ## subpage
 
 - [subpage](subpage.md)
-- [[subpage|subpage]]
+- [[subpage]]
 
 /pu
