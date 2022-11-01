@@ -20,3 +20,4 @@
 ## subpage
 
 - [[subpage|subpage]]
+- <a href='subpage'>subpage</a>
