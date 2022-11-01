@@ -16,6 +16,10 @@
 | ---- | ---- | ---- |
 | td 1 | td 2       ||
 
+
 ## subpage
 
 - [subpage](subpage.md)
+- [[subpage|subpage]]
+
+/pu
