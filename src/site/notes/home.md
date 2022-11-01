@@ -19,5 +19,6 @@
 
 ## subpage
 
-- <a href='subpage'>[[subpage|subpage]]</a>
+- <a href='subpage'>subpage</a>
+- subpage
 - [[subpage]]
