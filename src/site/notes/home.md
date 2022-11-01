@@ -19,7 +19,9 @@
 
 ## subpage
 
+- [\[subpage]]
 - \[[subpage|subpage]]
+- \[\[subpage\]\]
 - [[subpage|subpage]]
 - <a href='subpage'>subpage</a>
 - <a href='subpage.md'>subpage</a>
