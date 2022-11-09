@@ -21,6 +21,7 @@
 
 - <a href='subpage'>[subpage]</a>
 - [[subpage|subpage]]
+- [[subpage]]
 
 ---
 
@@ -36,3 +37,8 @@
 It's subpage. 
 
 </div></div>
+
+
+---
+
+![[subpage]]
