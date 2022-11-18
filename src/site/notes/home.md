@@ -19,7 +19,6 @@
 
 ## subpage
 
-- <a href='subpage'>[subpage]</a>
-- <a href='202211182337'>[test]</a>
+- [[subpage]]
 - [[202211182337]]
 - ((202211182337))
