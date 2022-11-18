@@ -6,7 +6,6 @@ module.exports = {
         contentPath: `${__dirname}/src/site/notes`,
         rootNote: `/home`,
         parseWikiLinks: `true`,
-        preset: "@theme-ui/preset-funk",
       },
     },
     `gatsby-plugin-netlify`
