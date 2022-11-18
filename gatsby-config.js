@@ -5,6 +5,7 @@ module.exports = {
       options: {
         contentPath: `${__dirname}/src/site/notes`,
         rootNote: `/home`,
+        parseWikiLinks: `true`,
       },
     },
     `gatsby-plugin-netlify`
