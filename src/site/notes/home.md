@@ -20,25 +20,4 @@
 ## subpage
 
 - <a href='subpage'>[subpage]</a>
-- [[subpage|subpage]]
-- [[subpage]]
-
----
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-# subpage
-
-It's subpage. 
-
-</div></div>
-
-
----
-
-![[subpage]]
+- <a href='202211182337'>[test]</a>
